@@ -26,6 +26,6 @@ I like to think that programming is an art form in which anyone can express them
 
 So yeah... You can call me an (Elixir / Ruby / React / Flutter) artist. 🥳
 
-Wanna talk ? (Feel free to reach out 📩)[contact@jasonkaniekete.fr]  
+Wanna talk ? [Feel free to reach out 📩](mailto:contact@jasonkaniekete.fr)
 
 
