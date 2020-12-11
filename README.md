@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 Curiosity led me to discover **Ruby** via Code School, never stopped using it ever since !
 
-Thanks to the professional environment, I got to learn React, and more recently Flutter.
+Thanks to the professional environment, I got to learn **React**, and more recently **Flutter**.
 
 Furthermore, an article headline caught my attention. Stating *« Elixir made me a better Rubyist »*.  
-Built interest in Elixir / Phoenix. Currently working on a Tekken related project for more than a year now.
+Built interest in **Elixir** / **Phoenix**. Currently working on a Tekken related project for more than a year now.
 
 I like to think that programming is an art form in which anyone can express themselves to solve a common problem.
 
